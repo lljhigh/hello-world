@@ -39,4 +39,5 @@
 .error-action {
   font-style: italic;
   line-height: 26px;
+  error : false;
 }
